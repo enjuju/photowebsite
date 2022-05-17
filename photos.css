@@ -1,9 +1,9 @@
 img {
-    width: 30%;
+    width: 500px;
     height: 500px;
     object-fit: cover;
-    magin: calc(10%/6);
-
+    margin: 1.5em;
+    border: 1px solid #f1f1f1;
 }
 
 main {
